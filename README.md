@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alzxandzr&label=Profile%20views&color=0e75b6&style=flat" alt="alzxandzr" /> </p>
 
-- 🌱 I’m currently learning **Data Engineering in SQL**
+🌱 I’m currently learning **Data Engineering in SQL**
 
-- 👨‍💻 All of my projects are available at [alexanderarroyave.com](alexanderarroyave.com)
+👨‍💻 All of my projects are available at [alexanderarroyave.com](alexanderarroyave.com)
 
-- 📫 How to reach me **alexgomez8071@gmail.com**
+📫 How to reach me **alexgomez8071@gmail.com**
 
-- 📄 Know about my experiences [https://alexarroyave.com/Resume_Alex_Gomez.pdf](https://alexarroyave.com/Resume_Alex_Gomez.pdf)
+📄 Know about my experiences [https://alexarroyave.com/Resume_Alex_Gomez.pdf](https://alexarroyave.com/Resume_Alex_Gomez.pdf)
 
-- ⚡ Fun fact **I created an automated bartender**
+⚡ Fun fact **I created an automated bartender**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
